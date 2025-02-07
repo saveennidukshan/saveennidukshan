@@ -1,7 +1,12 @@
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" /> </p>
 <h1 align="center">Hi 👋, I'm Saveen Nidukshan</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saveennidukshan&label=Profile%20views&color=0e75b6&style=flat" alt="saveennidukshan" /> </p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saveennidukshan&label=Profile%20views&color=0e75b6&style=flat" alt="saveennidukshan" /> </p>
+
+---
 
 - 🌱 I’m currently learning **MERN stack**
 
