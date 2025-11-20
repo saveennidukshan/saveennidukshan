@@ -1,20 +1,79 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" /> </p>
-<h1 align="center">Hi 👋, I'm Saveen Nidukshan</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saveennidukshan&label=Profile%20views&color=0e75b6&style=flat" alt="saveennidukshan" /> </p>
+<h1 align="center">⚡ Hey, I'm Saveen Nidukshan</h1>
+<h3 align="center">💻 Full Stack Developer • 📱 Mobile App Developer • 🚀 Tech Enthusiast</h3>
 
 ---
 
-- 🌱 I’m currently learning **MERN stack**
+## 🌌 About Me
+- 🌱 Currently learning **MERN Stack & React Native**
+- 🎨 I love building **clean, modern, neon-style UIs**
+- ⚡ Passionate about **React, Node.js, Tailwind, Android**
+- 🧠 Always learning, improving, and exploring new tech
+- 🎯 Goal: Become a world-class **Full Stack + Mobile Developer**
 
-- 💬 Ask me about **react**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 📁 Projects & Work
+- 🚀 **Mobile Apps** — Android & React Native  
+- 🌐 **Full Stack Projects** — MERN Stack, Node.js APIs  
+- 🖥️ **Frontend UI** — React + Tailwind modern designs  
+- 🛢️ **Database Work** — MongoDB, MySQL  
+- 🔧 **Personal Tools & Utilities**  
+- 💡 More coming soon...
+
+---
+
+## 🔗 Connect With Me
+- 🐙 GitHub: **https://github.com/saveennidukshan**
+- 📘 Facebook: **https://www.facebook.com/saveen.nidukshan**
+- 📸 Instagram: **https://www.instagram.com/saveen_nidukshan**
+- 💼 LinkedIn: **https://lk.linkedin.com/in/saveennidukshan**
+
+---
+
+## 🛠️ Tech Stack 
+
+### 💡 Languages  
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
+  <img src="https://skillicons.dev/icons?i=java" width="45" />
+  <img src="https://skillicons.dev/icons?i=python" width="45" />
+  <img src="https://skillicons.dev/icons?i=html" width="45" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" />
+  <img src="https://skillicons.dev/icons?i=php" width="45" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### ⚙️ Frameworks & Libraries  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" width="45" />
+  <img src="https://skillicons.dev/icons?i=reactnative" width="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
+  <img src="https://skillicons.dev/icons?i=express" width="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
+</p>
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" />
+</p>
+
+### 🔧 Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" />
+  <img src="https://skillicons.dev/icons?i=git" width="45" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="45" />
+  <img src="https://skillicons.dev/icons?i=ps" width="45" />
+</p>
+
+---
+
+## ✨ Fun Facts
+- 💙 I love simple & clean UI  
+- 🎵 I code with music  
+- 🚀 I enjoy learning every day  
+- 🔥 I love neon-themed designs  
+
+---
+
+<h3 align="center">⚡ Thanks for visiting — let's build something amazing together! ⚡</h3>
